@@ -1,0 +1,132 @@
+.Bienvenue{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 36px;
+}
+
+.bienvenue{
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.btn-connect{
+    color: white;
+    background-color: orange;
+    min-width: 140px;
+    line-height: 26px;
+    margin: auto;
+    margin-right: 6px;
+}
+
+.btn-inscrit {
+    color: white;
+    background-color: orange;
+    min-width: 140px;
+    margin: auto;
+    line-height: 26px;
+}
+
+.btn-preVol{
+    color : white;
+    background-color: darkorange;
+    margin-bottom: 6px;
+    text-align: center;
+    margin-top: -6px;
+    margin-right: 6px;
+}
+
+.btn-listePreVol{
+    color : white;
+    background-color: darkorange;
+    margin-bottom: 6px;
+    margin-right: -30px;
+    margin-top: -6px;
+}
+
+.btn-Volontaire{
+    color : white;
+    margin: auto;
+    margin-top: 6px;
+    margin-right: 9px;
+    background-color: darkorange;
+}
+
+.btn-listeVolontaire{
+    color : white;
+    margin: auto;
+    margin-top: 6px;
+    background-color: darkorange;
+}
+
+.faire{
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.header-text {
+    position: absolute;
+    top: 20%;
+    left: 1.8%;
+    right: auto;
+    width: 96.66666666666666%;
+}
+
+.header-text h2 {
+    font-size: 18px;
+}
+
+.header-text h2 span {
+    padding: 10px;
+}
+
+.logo{
+    width: 60px;
+    height: 62px;
+}
+
+.navbar{
+    background-color: orange;
+    border-color: white;
+}
+
+.sommaire{
+    margin-top: 14px;
+}
+
+.unis{
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.Uniscite{
+    font-size: 14px;
+}
+
+.unis_bouton{
+    margin: auto;
+    text-align: center;
+}
+
+.Unis_NavBarre{
+    background-color: orange;
+    border-color: white;
+}
+
+.unis_quest{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.unis_volontaire{
+    margin : auto;
+    margin-top: 10px;
+}
+
+
